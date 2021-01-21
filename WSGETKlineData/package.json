@@ -13,6 +13,6 @@
     "binance": "github:karthik947/binance#master",
     "bitcoinaverage": "^1.4.2",
     "express": "^4.17.1",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.4.0"
   }
 }
